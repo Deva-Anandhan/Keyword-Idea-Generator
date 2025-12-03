@@ -1,0 +1,5 @@
+{
+  "name": "Keyword Idea Generator",
+  "description": "Generate tailored keyword ideas, ad groups, and performance estimates for your Google Ads campaign using Gemini.",
+  "requestFramePermissions": []
+}
